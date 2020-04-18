@@ -1,8 +1,3 @@
-@font-face {
-font-family: "hk-grotesk-regular";
-src: url("css/fonts/WEB/HKGrotesk-Regular.eot");
-}
-
 html{
-    font-family: "hk-grotesk-regular", serif;
+    font-family: 'hk_groteskbold', Arial, sans-serif;
 }
