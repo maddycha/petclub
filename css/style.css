@@ -3,6 +3,11 @@ html{
     color: #306060;
 }
 
+::selection {
+    color: none;
+    background: none;
+}
+
 /*navigation bar*/
 nav{
     position: fixed;
@@ -21,6 +26,10 @@ nav a{
 a{
     text-decoration: none;
     color: black;
+}
+
+video{
+    width: 50%;
 }
 
 .navlink1:hover{
